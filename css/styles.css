@@ -238,9 +238,22 @@ text-align: left;
 .footer {
   background-color: var(--navyblue, #2e2f42);
 }
+.footer-logo {
+  text-decoration: none;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
 
-.studiologo2 {
-  color: var(--cloud, #f4f4fd);
+.footer-logo-web {
+color: var(--iris, #4d5ae5);
+}
+
+.footer-logo-studio {
+color: var(--cloud, #f4f4fd);
 }
 
 .motto {
